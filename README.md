@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karkee_sandhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karkee_sandhya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandhya-karki-b44884189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandhya-karki-b44884189/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandhya karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandhya karki" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sandhya karkee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sandhya karkee" height="30" width="40" /></a>
 <a href="https://fb.com/sandhya karkee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandhya karkee" height="30" width="40" /></a>
 <a href="https://instagram.com/sandhya karkee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandhya karkee" height="30" width="40" /></a>
