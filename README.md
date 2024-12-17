@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandhya Karki</h1>
-<h3 align="center">Machine Learning and Data Science ||Freelancer|| Practitioner||Women Tech Network||</h3>
+<h3 align="center">Data Scientist|| Community Lead of GLOBAL AI HUB</h3>
 
 <p align="left"> <a href="https://twitter.com/karkee_sandhya" target="blank"><img src="https://img.shields.io/twitter/follow/karkee_sandhya?logo=twitter&style=for-the-badge" alt="karkee_sandhya" /></a> </p>
 
