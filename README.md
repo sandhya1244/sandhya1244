@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Neural Networking**
-
-- 👯 I’m looking to collaborate on **AIML Hub**
-
-- 💬 Ask me about **Data visualization**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **sandhya.karkee12@gmail.com**
 
